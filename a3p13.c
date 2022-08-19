@@ -1,4 +1,4 @@
-//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Decision Control Statements in C Language
 //  Assignment-03_Problem-13: Write a program to check whether a given number is divisible by 3 and divisible by 2 or not.
 
 #include <stdio.h>

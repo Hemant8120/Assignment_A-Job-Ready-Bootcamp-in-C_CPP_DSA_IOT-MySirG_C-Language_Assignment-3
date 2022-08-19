@@ -1,4 +1,4 @@
-//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Decision Control Statements in C Language
 //  Assignment-03_Problem-18:  Write a program which takes the month number as an input and display number of days in that month.
 
 #include <stdio.h>

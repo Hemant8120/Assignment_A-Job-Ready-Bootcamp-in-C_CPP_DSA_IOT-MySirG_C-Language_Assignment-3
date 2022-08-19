@@ -1,4 +1,4 @@
-//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Decision Control Statements in C Language
 //  Assignment-03_Problem-7: Write a program to check whether roots of a given quadratic equation are real & distinct, real & equal or imaginary roots
 
 #include <stdio.h>

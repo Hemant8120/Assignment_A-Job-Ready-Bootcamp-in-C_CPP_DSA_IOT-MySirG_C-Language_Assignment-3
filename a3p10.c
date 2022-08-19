@@ -1,4 +1,4 @@
-//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Decision Control Statements in C Language
 //  Assignment-03_Problem-10: Write a program which takes the cost price and selling price of a product from the user. Now calculate and print profit or loss percentage
 
 #include <stdio.h>

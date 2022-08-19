@@ -1,4 +1,4 @@
-//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - 3   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Decision Control Statements in C Language
 //  Assignment-03_Problem-17:  Write a program which takes the length of the sides of a triangle as an input. Display whether the triangle is valid or not.
 
 #include <stdio.h>
